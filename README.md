@@ -7,4 +7,5 @@ Terminal setting preferences
 - Starship
 - kubectl
 - kubens
+- fzf completion/selection
 - kubecolor
