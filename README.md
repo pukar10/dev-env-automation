@@ -7,3 +7,4 @@ Terminal setting preferences
 - Starship
 - kubectl
 - kubens
+- kubecolor
