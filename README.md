@@ -1,5 +1,5 @@
 # dev-env-automation
-Personal dev env
+Personal dev env preferences
 
 ## Core
 - python
