@@ -1,11 +1,15 @@
-# terminal
-Terminal setting preferences
+# dev-env-automation
+Personal dev env
 
-## Utilities
+## Core
+- python
+- ansible
+- kubectl
 
+## Terminal
 - Jetbrainmono nerd font
 - Starship
-- kubectl
+- kubectx
 - kubens
 - fzf completion/selection
 - kubecolor
