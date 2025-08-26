@@ -4,6 +4,7 @@ Personal dev env preferences
 ## Core
 - python
 - ansible
+- Terraform
 - kubectl
 
 ## Terminal
