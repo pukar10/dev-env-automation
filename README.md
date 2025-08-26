@@ -9,6 +9,7 @@ Personal dev env preferences
 
 ## Terminal
 - Jetbrainmono nerd font
+- yq/jq
 - Starship
 - kubectx
 - kubens
