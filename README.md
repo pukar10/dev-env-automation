@@ -20,4 +20,3 @@ Personal dev env preferences
 - vscode
 - Chrome
 - Sublime
-- 
