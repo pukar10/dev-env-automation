@@ -14,6 +14,7 @@ Personal dev env preferences
 - kubens
 - fzf completion/selection
 - kubecolor
+- k9s
 
 ## Apps
 - vscode
