@@ -14,3 +14,9 @@ Personal dev env preferences
 - kubens
 - fzf completion/selection
 - kubecolor
+
+## Apps
+- vscode
+- Chrome
+- Sublime
+- 
